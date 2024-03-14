@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "소수구하기", "소수구하기\소수구하기.vcxproj", "{DDA62B9A-168C-473C-90A7-788AB3FEB572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Debug|x64.ActiveCfg = Debug|x64
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Debug|x64.Build.0 = Debug|x64
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Debug|x86.Build.0 = Debug|Win32
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Release|x64.ActiveCfg = Release|x64
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Release|x64.Build.0 = Release|x64
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Release|x86.ActiveCfg = Release|Win32
+		{DDA62B9A-168C-473C-90A7-788AB3FEB572}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508E54D2-4CC5-43E2-A8B1-DBA637DFBC92}
+	EndGlobalSection
+EndGlobal
